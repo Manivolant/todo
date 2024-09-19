@@ -1,2 +1,2 @@
 # todo with localstorage project
-link = [todo](manivolant.github.io/todo)
+link = [todo](https://manivolant.github.io/todo/)
